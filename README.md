@@ -13,7 +13,7 @@ Building scalable, secure, and performance-driven web applications.
 ---
 
 ### 🛠️ Tech Stack
-**Frontend:** React.js, Redux, Bootstrap  
+**Frontend:** React.js, Redux, Tailwind  
 **Backend:** Node.js, Express.js, REST APIs, JWT  
 **Databases:** MongoDB, MySQL  
 **Languages:** Java, JavaScript, SQL, C  
