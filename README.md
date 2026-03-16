@@ -22,9 +22,9 @@ Building scalable, secure, and performance-driven web applications.
 ---
 
 ### 📌 Featured Projects
-- 🛒 **Food Mart (MERN E-Commerce)**  
-  Secure authentication, product search, cart & orders  
-  👉 https://github.com/Shaptorshi/FoodMart
+- 🛒 **Finance Tracker**  
+  Track income, expense with dynamic custom categories and debt tracking with minimization strategies  
+  👉 https://github.com/Shaptorshi/Finance-Tracker
 
 - 🔗 **Web3 Token Swap DApp**  
   Decentralized token swapping with MetaMask
