@@ -22,9 +22,13 @@ Building scalable, secure, and performance-driven web applications.
 ---
 
 ### 📌 Featured Projects
-- 🛒 **Finance Tracker**  
+- 💵 **Finance Tracker**  
   Track income, expense with dynamic custom categories and debt tracking with minimization strategies  
   👉 https://github.com/Shaptorshi/Finance-Tracker
+
+ - 🔗 **URL Shortener**
+  Shorten lengthy URL with ease.
+  👉 https://github.com/Shaptorshi/URL-Shortener
 
 - 🔗 **Web3 Token Swap DApp**  
   Decentralized token swapping with MetaMask
