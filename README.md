@@ -27,7 +27,7 @@ Building scalable, secure, and performance-driven web applications.
   👉 https://github.com/Shaptorshi/Finance-Tracker
 
  - 🔗 **URL Shortener**
- - Shorten lengthy URL with ease.
+   Shorten lengthy URL with ease.
   👉 https://github.com/Shaptorshi/URL-Shortener
 
 - 🔗 **Web3 Token Swap DApp**  
