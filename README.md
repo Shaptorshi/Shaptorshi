@@ -28,7 +28,7 @@ Building scalable, secure, and performance-driven web applications.
 
  - 🔗 **URL Shortener**
  - Shorten lengthy URL with ease.
- - 👉 https://github.com/Shaptorshi/URL-Shortener
+  👉 https://github.com/Shaptorshi/URL-Shortener
 
 - 🔗 **Web3 Token Swap DApp**  
   Decentralized token swapping with MetaMask
