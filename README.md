@@ -1,6 +1,6 @@
 ## Hi, I'm Shaptorshi Bhattacharya 👋
 
-Full Stack Developer | MERN Stack | Web3 Enthusiast  
+Full Stack Developer | MERN Stack | Next.js | PostgreSQL
 Building scalable, secure, and performance-driven web applications.
 
 ---
